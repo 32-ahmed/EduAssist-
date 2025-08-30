@@ -1,4 +1,4 @@
-# EduAssist-
+# EduAssist
 📚 Telegram RAG Bot – PDF Question Answering & Summarization
 
 This project is a Retrieval-Augmented Generation (RAG) bot for Telegram that can:
